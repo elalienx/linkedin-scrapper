@@ -1,7 +1,7 @@
 // Project files
 
-import scrapper from "./scripts/scrapLinkedIn.js";
-import data from "./data/linkedIn.js";
+import scrapper from "./data/scrapper.js";
+import data from "./data/data.js";
 
 // import scrapper from "./scripts/scrapBootcamp.js";
 // import data from "./data/bootcamp.js";

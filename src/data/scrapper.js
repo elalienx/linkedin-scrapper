@@ -29,8 +29,6 @@ export default async function scrapLinkedIn(url) {
 
   await browser.close();
 
-  //Id	Pic	Name	Current job	LinkedIn	Notes	SAFe certified	"Would recommend"	Contacted?
-
   return {
     name: name,
     job_title: jobTitle,
